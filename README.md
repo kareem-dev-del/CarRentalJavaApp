@@ -146,7 +146,7 @@ The system will auto-connect and initialize required tables via `DatabaseSetup.j
 ---
 
 ## 👨‍💻 Author
-**Ibrahim Mohamed**  
+**Kareem Hesham**  
 Software Engineering Student | Software Engineer
 📍 Egypt  
 🌐 [GitHub Profile](https://github.com/ibrahimMohamed124)
